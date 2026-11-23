@@ -17,21 +17,6 @@
         "LICENSE": "3972dc9744f6499f0f9b2dbf76696f2ae7ad8af9b23dde66d6af86c9dfb36986",
         "NOTICE": "52511cac5a05e2b102ff7f5a348c7a0afc4858938f3c84cd5f58b15520e7ca40"
       }
-    },
-    {
-      "id": "hongguo",
-      "name": "红果（上游）",
-      "version": "1.0.7",
-      "description": "上游红果模块；与 duanju 自维护模块独立安装和更新",
-      "api": 1,
-      "adult": false,
-      "repo": "guoapp-modules/hongguo",
-      "tag": "v1.0.7",
-      "sha256": {
-        "manifest.json": "8a922cfd6f16b1d6d145265b73bd8ee35deda73c1ec9b2f27b444a231888ec4f",
-        "main.js": "457f75b556cb0fb6f103b91fd9831f173ecbfdb266fa0bfe16f292d88a0a7b24",
-        "LICENSE": "3972dc9744f6499f0f9b2dbf76696f2ae7ad8af9b23dde66d6af86c9dfb36986"
-      }
     }
   ]
 }
