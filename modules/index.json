@@ -1,0 +1,22 @@
+{
+  "format": 1,
+  "modules": [
+    {
+      "id": "hongguo",
+      "name": "红果（自维护）",
+      "version": "1.0.9",
+      "description": "短剧 · 漫剧 · AI 剧 · 听书；WangXingFan 维护；高清播放需要客户端 1.6.30 或更新版本",
+      "api": 1,
+      "adult": false,
+      "repo": "WangXingFan/DuanJu-Modules",
+      "tag": "hongguo-v1.0.9-unverified",
+      "path": "modules/hongguo",
+      "sha256": {
+        "manifest.json": "06f9a651c32ddd9553f97931b9aa320effb573afd86771f8a07d835e69996c6b",
+        "main.js": "760525c60fe6f7b1b4758f6a6b744d2f558f3a060c78374ecf61edf04dc36033",
+        "LICENSE": "3972dc9744f6499f0f9b2dbf76696f2ae7ad8af9b23dde66d6af86c9dfb36986",
+        "NOTICE": "52511cac5a05e2b102ff7f5a348c7a0afc4858938f3c84cd5f58b15520e7ca40"
+      }
+    }
+  ]
+}
